@@ -1,4 +1,0 @@
-#Integrantes:
-*James Estiven Cordoba
-*Miguel Angel Caicedo
-*Darien Manuel Miranda
